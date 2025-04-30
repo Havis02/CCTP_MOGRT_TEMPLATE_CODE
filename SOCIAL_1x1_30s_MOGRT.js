@@ -63,7 +63,7 @@ Composition Name: NO TEXT BOARDER
 
 Layer: "No Text Boarder"
 
-Scale: Written by Oz Havis
+Opacity: Written by Oz Havis
 m = comp("1x1 4x5 Master Control Comp").layer("NO TEXT BORDER 1x1").effect("NO TEXT  BORDER")("Checkbox"); //Locates the 'checkbox control' in the MASTER CONTROL COMP
 i = index;
 if (m==i)100; //If the check box is clicked, then the opacity of the layer will be set to 100
